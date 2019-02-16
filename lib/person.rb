@@ -1,6 +1,6 @@
 class Person
 end
  
- = Dog.new
+adele_goldberg = Person.new
 
 snoopy = Dog.new
