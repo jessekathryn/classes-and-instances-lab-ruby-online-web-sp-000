@@ -3,4 +3,4 @@ end
  
 adele_goldberg = Person.new
 
-snoopy = Dog.new
+alan_kay = Person.new
